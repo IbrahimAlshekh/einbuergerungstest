@@ -16,12 +16,10 @@ export default function RootLayout({
       </head>
       <body className={"bg-gray-50"}>
         <div className={"bg-slate-200 max-w-7xl mx-auto shadow-xl border-1 border-gray-600 min-h-screen"}>
-        <Header/>
-        {children}
-
+            <Header/>
+            {children}
         </div>
         <footer className={"max-w-7xl mx-auto bg-slate-800 p-10 text-center text-slate-200"}>
-
             Einbürgerungstest Fragen
         </footer>
       </body>
