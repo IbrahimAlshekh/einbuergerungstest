@@ -29,7 +29,11 @@ export default function Question({question, state, withId, checkEnabled, getAnsw
 
     return (<div
         className={`bg-slate-100 rounded-xl shadow p-4 border-4 border-t-8 ${isAnswered ? (isTrue ? 'border-green-600' : 'border-red-600') : 'border-transparent'}`}>
-        <div className={"text-slate-500 text-xl mb-4"}>{( withId ? question.id + ") " : '' ) + question.text}</div>
+        <div className={"text-slate-500 text-xl mb-4"}>
+            {( withId ? question.id + ") " : '' ) + question.text}
+            <br/>
+            <div className={""} style={{direction: 'rtl'}}>{question.text_ar}</div>
+        </div>
         { question.img && (<Image src={`/img/q${state && ([1,8].includes(question.id)) ? question.id + '_' + state : question.id}.png`}
                width={500}
                height={200}
@@ -60,7 +64,7 @@ export default function Question({question, state, withId, checkEnabled, getAnsw
                     )
                 )}
                 <input id={`option_${question.id}_${option.id}`} type={"radio"} name={`question_${question.id}`}/>
-                <span>{option.text}</span>
+                <span className={"w-full"}>{option.text} <div style={{direction:'rtl'}}>{option.text_ar}</div></span>
             </label>
         ))}
         {checkEnabled && transitions((styles, item) => answer > 0 && !item && (

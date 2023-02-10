@@ -40,7 +40,7 @@ export default function QuizForm() {
         setQuestions([])
     }
 
-    return (<div className={"p-8"}>
+    return (<div className={"flex flex-col space-y-4 md:space-y-8 p-4 lg:p-8"}>
         <h1 className={"text-4xl font-semibold pb-4 mb-4 border-b border-gray-300"}>Übungstest</h1>
         {!quizStarted &&  <div className={"bg-slate-50 p-6 rounded-xl shadow"}>
             <h2 className={"text-lg"}>Bundesland auswählen</h2>

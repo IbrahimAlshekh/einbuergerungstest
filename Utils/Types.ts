@@ -1,6 +1,7 @@
 export interface question {
     id: number
     text: string
+    text_ar?: string
     options: option[]
     answer: number
     img: boolean
@@ -14,6 +15,7 @@ export enum questionTypes {
 interface option {
     id: number,
     text: string
+    text_ar?: string
 }
 
 export interface state {

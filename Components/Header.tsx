@@ -27,11 +27,14 @@ export default function Header({children}: Props) {
             </div>
         </div>
         <div className={"flex justify-between items-center px-6 py-4 bg-slate-900"}>
-            <Image
-                src={"/eb_logo.png"} alt={"Logo"}
-                width={50}
-                height={70}
-            />
+            <div className={"flex items-center space-x-4"}>
+                <Image
+                    src={"/eb_logo.png"} alt={"Logo"}
+                    width={50}
+                    height={70}
+                />
+                <div className={"text-slate-50 text-xl sm:text-4xl lg:text-2xl xl:text-4xl font-bold font-serif"}>Einbürgerungstest</div>
+            </div>
             <nav className={"space-x-8 hidden lg:flex"}>
                 {routes.map((route) => (
                     <Link  className={"px-6 py-2 text-slate-100 rounded bg-slate-700"} key={route.path} href={route.path}>{route.title}</Link>
