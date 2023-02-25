@@ -6,7 +6,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Freistaat Bayern?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية بافاريا؟",
         "options": [
           {
             "id": 1,
@@ -36,7 +36,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Bayern?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة بافاريا؟",
         "options": [
           {
             "id": 1,
@@ -66,7 +66,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Bayern gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية بافاريا؟",
         "options": [
           {
             "id": 1,
@@ -96,7 +96,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Bayern bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في الانتخابات البافارية؟",
         "options": [
           {
             "id": 1,
@@ -126,27 +126,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Bayern?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية بافاريا؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق  و أبيض و أحمر"
           },
           {
             "id": 2,
             "text": "weiß-blau",
-            "text_ar": ""
+            "text_ar": "أبيض و أزرق"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر و أبيض و أحمر"
           },
           {
             "id": 4,
             "text": "schwarz-gelb",
-            "text_ar": ""
+            "text_ar": "أسود و أصفر"
           }
         ],
         "answer": 2,
@@ -156,27 +156,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Bayern über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في بافاريا؟",
         "options": [
           {
             "id": 1,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 2,
             "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           },
           {
             "id": 3,
             "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 4,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           }
         ],
         "answer": 2,
@@ -186,7 +186,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Bayern heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة بافاريا هي ...",
         "options": [
           {
             "id": 1,
@@ -216,7 +216,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Bayern?",
-        "text_ar": "",
+        "text_ar": " أي ولاية من الولايات التالية هي بافاريا؟",
         "options": [
           {
             "id": 1,
@@ -246,27 +246,27 @@
       {
         "id": 9,
         "text": "Wie nennt man den Regierungschef / die Regierungschefin in Bayern?",
-        "text_ar": "",
+        "text_ar": " ماذا يسمى رئيس الحكومة في بافاريا؟",
         "options": [
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
             "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+            "text_ar": "يسمى رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
             "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+            "text_ar": "يسمى رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -276,27 +276,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Bayern nicht?",
-        "text_ar": "",
+        "text_ar": " أي من المناصب الوزارية لاتوجد لدى مقاطعة بافاريا؟",
         "options": [
           {
             "id": 1,
             "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+            "text_ar": " وزير / وزيرة العدل"
           },
           {
             "id": 2,
             "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+            "text_ar": " وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "  وزير / وزيرة المالية"
           },
           {
             "id": 4,
             "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+            "text_ar": " وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -312,7 +312,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Niedersachsen?",
-        "text_ar": "",
+        "text_ar": " أي من الشعارات التالية هو شعار ولاية نيدرساكسن؟",
         "options": [
           {
             "id": 1,
@@ -342,7 +342,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Niedersachsen?",
-        "text_ar": "",
+        "text_ar": " أي من الأسماء التالية تقع في مقاطعة نيدرساكسن؟",
         "options": [
           {
             "id": 1,
@@ -372,7 +372,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Niedersachsen gewählt?",
-        "text_ar": "",
+        "text_ar": " لمدة كم سنة يتم انتخاب البرلمان في ولاية نيدرساكسن؟",
         "options": [
           {
             "id": 1,
@@ -402,7 +402,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Niedersachsen bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في الانتخابات البلدية في نيدرساكسن؟",
         "options": [
           {
             "id": 1,
@@ -432,27 +432,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Niedersachsen?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية نيدرساكسن؟",
         "options": [
           {
             "id": 1,
             "text": "weiß-blau",
-            "text_ar": ""
+            "text_ar": "أبيض-أزرق"
           },
           {
             "id": 2,
             "text": "schwarz-rot-gold",
-            "text_ar": ""
+            "text_ar": "أسود-أحمر-ذهبي"
           },
           {
             "id": 3,
             "text": "schwarz-gelb",
-            "text_ar": ""
+            "text_ar": "أسود-أصفر"
           },
           {
             "id": 4,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           }
         ],
         "answer": 2,
@@ -462,27 +462,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Niedersachsen über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في نيدرساكسن؟",
         "options": [
           {
             "id": 1,
             "text": "beim Koordinator für politische Bildung im Kultusministerium",
-            "text_ar": ""
+            "text_ar": "لدى متحدث الشؤون السياسية في وزارة التربية والتعليم"
           },
           {
             "id": 2,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": " لدى الجهة المسؤولة عن الأمن في البلدية"
           },
           {
             "id": 3,
             "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+            "text_ar": " لدى المركز الوطني للمستهلكين"
           },
           {
             "id": 4,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": " لدى الكنائس"
           }
         ],
         "answer": 1,
@@ -492,7 +492,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Niedersachsen heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة نيدرساكسن هي ...",
         "options": [
           {
             "id": 1,
@@ -522,7 +522,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Niedersachsen?",
-        "text_ar": "",
+        "text_ar": " أي من الولايات الاتحادية هي نيدرساكسن؟",
         "options": [
           {
             "id": 1,
@@ -552,27 +552,27 @@
       {
         "id": 9,
         "text": "Wie nennt man den Regierungschef / die Regierungschefin in Niedersachsen?",
-        "text_ar": "",
+        "text_ar": "ماذا يسمى رئيس الحكومة في نيدرساكسن؟",
         "options": [
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar": "الوزير / الوزيرة الأول"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
             "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+            "text_ar": " رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
             "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+            "text_ar": " رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -582,27 +582,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Niedersachsen nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة نيدرساكسن؟",
         "options": [
           {
             "id": 1,
             "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
             "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
             "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -618,7 +618,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Baden-Württemberg?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية بادن-فورتمبرغ؟",
         "options": [
           {
             "id": 1,
@@ -648,7 +648,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Baden-Württemberg?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة بادن-فورتمبرغ؟",
         "options": [
           {
             "id": 1,
@@ -678,7 +678,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Baden-Württemberg gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية بادن-فورتمبرغ؟",
         "options": [
           {
             "id": 1,
@@ -708,7 +708,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Baden-Württemberg bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن للمواطنين في بادن-فورتمبرغ التصويت في الانتخابات البلدية؟",
         "options": [
           {
             "id": 1,
@@ -738,27 +738,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Baden-Württemberg?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية بادن-فورتمبرغ؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "schwarz-gold",
-            "text_ar": ""
+            "text_ar": "أسود-ذهبي"
           },
           {
             "id": 3,
             "text": "weiß-blau",
-            "text_ar": ""
+            "text_ar": "أبيض-أزرق"
           },
           {
             "id": 4,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           }
         ],
         "answer": 2,
@@ -768,27 +768,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Baden-Württemberg über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول القضايا السياسية في ولاية بادن-فورتمبرغ؟",
         "options": [
           {
             "id": 1,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 2,
             "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 3,
             "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+            "text_ar": "لدى مركز الولاية لتعليم السياسة"
           },
           {
             "id": 4,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           }
         ],
         "answer": 2,
@@ -798,7 +798,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Baden-Württemberg heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية بادن-فورتمبرغ هي ...",
         "options": [
           {
             "id": 1,
@@ -828,7 +828,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Baden-Württemberg?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي بادن-فورتمبرغ؟",
         "options": [
           {
             "id": 1,
@@ -858,27 +858,27 @@
       {
         "id": 9,
         "text": "Wie nennt man den Regierungschef / die Regierungschefin in Baden-Württemberg?",
-        "text_ar": "",
+        "text_ar": "كيف يسمى رئيس الحكومة في ولاية بادن-فورتمبرغ؟",
         "options": [
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar": "الوزير / الوزيرة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
             "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+            "text_ar": "رئيس البلدية / رئيسة البلدية"
           },
           {
             "id": 4,
             "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -888,27 +888,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Baden-Württemberg nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة بادن-فوتنبرغ؟",
         "options": [
           {
             "id": 1,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 2,
             "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 3,
             "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة الداخلية"
           },
           {
             "id": 4,
             "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة الخارجية"
           }
         ],
         "answer": 4,
@@ -924,7 +924,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Nordrhein-Westfalen?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية شمال الراين؟",
         "options": [
           {
             "id": 1,
@@ -954,7 +954,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Nordrhein-Westfalen?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة ولاية شمال الراين؟",
         "options": [
           {
             "id": 1,
@@ -984,7 +984,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Nordrhein-Westfalen gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية شمال الراين؟",
         "options": [
           {
             "id": 1,
@@ -1014,7 +1014,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Nordrhein-Westfalen bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الأدنى للتصويت في الانتخابات البلدية في ولاية شمال الراين؟",
         "options": [
           {
             "id": 1,
@@ -1044,27 +1044,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Nordrhein-Westfalen?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية شمال الراين؟",
         "options": [
           {
             "id": 1,
             "text": "rot-weiß",
-            "text_ar": ""
+            "text_ar": "أحمر وأبيض"
           },
           {
             "id": 2,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر وأبيض وأحمر"
           },
           {
             "id": 3,
             "text": "schwarz-gold",
-            "text_ar": ""
+            "text_ar": "أسود وذهبي"
           },
           {
             "id": 4,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق وأبيض وأحمر"
           }
         ],
         "answer": 2,
@@ -1074,27 +1074,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Nordrhein-Westfalen über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول القضايا السياسية في ولاية شمال الراين؟",
         "options": [
           {
             "id": 1,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 2,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدية"
           },
           {
             "id": 3,
             "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 4,
             "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+            "text_ar": "لدى مركز الراين لتعليم السياسة"
           }
         ],
         "answer": 4,
@@ -1104,7 +1104,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Nordrhein-Westfalen heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية شمال الراين هي ...",
         "options": [
           {
             "id": 1,
@@ -1134,7 +1134,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Nordrhein-Westfalen?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية شمال الراين؟",
         "options": [
           {
             "id": 1,
@@ -1164,27 +1164,27 @@
       {
         "id": 9,
         "text": "Wie nennt man den Regierungschef / die Regierungschefin in Nordrhein-Westfalen?",
-        "text_ar": "",
+        "text_ar": "ماذا يسمى رئيس الحكومة في ولاية شمال الراين؟",
         "options": [
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
             "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+            "text_ar": "رئيس البلدية / رئيسة البلدية"
           },
           {
             "id": 4,
             "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -1194,27 +1194,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Nordrhein-Westfalen nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة شمال الراين؟",
         "options": [
           {
             "id": 1,
             "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+            "text_ar": "  وزير العدل / وزيرة العدل"
           },
           {
             "id": 2,
             "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+            "text_ar": "وزير الخارجية / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير المالية / وزيرة المالية"
           },
           {
             "id": 4,
             "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+            "text_ar": "وزير الداخلية / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -1230,7 +1230,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Brandenburg?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية براندنبورغ؟",
         "options": [
           {
             "id": 1,
@@ -1260,7 +1260,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Brandenburg?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة براندنبورغ؟",
         "options": [
           {
             "id": 1,
@@ -1290,7 +1290,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Brandenburg gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية براندنبورغ؟",
         "options": [
           {
             "id": 1,
@@ -1320,7 +1320,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Brandenburg bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الأدنى للتصويت في الانتخابات البلدية في ولاية براندنبورغ؟",
         "options": [
           {
             "id": 1,
@@ -1350,27 +1350,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Brandenburg?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية براندنبورغ؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "rot-weiß",
-            "text_ar": ""
+            "text_ar": "أحمر-أبيض"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           },
           {
             "id": 4,
             "text": "schwarz-gelb",
-            "text_ar": ""
+            "text_ar": "أسود-أصفر"
           }
         ],
         "answer": 2,
@@ -1380,27 +1380,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Brandenburg über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول القضايا السياسية في ولاية براندنبورغ؟",
         "options": [
           {
             "id": 1,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 2,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدية"
           },
           {
             "id": 3,
             "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+            "text_ar": "لدى مركز الدولة لتعليم السياسة"
           },
           {
             "id": 4,
             "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+            "text_ar": "لدى مركز الدولة للمستهلكين"
           }
         ],
         "answer": 3,
@@ -1410,7 +1410,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Brandenburg heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية براندنبورغ هي ...",
         "options": [
           {
             "id": 1,
@@ -1440,7 +1440,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Brandenburg?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية براندنبورغ؟",
         "options": [
           {
             "id": 1,
@@ -1470,27 +1470,27 @@
       {
         "id": 9,
         "text": "Wie nennt man den Regierungschef / die Regierungschefin in Brandenburg?",
-        "text_ar": "",
+        "text_ar": "كيف يسمى رئيس الحكومة في ولاية براندنبورغ؟",
         "options": [
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
             "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
             "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -1500,27 +1500,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Brandenburg nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة براندنبورغ؟",
         "options": [
           {
             "id": 1,
             "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+            "text_ar": " وزير / وزيرة العدل"
           },
           {
             "id": 2,
             "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+            "text_ar": " وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": " وزير / وزيرة المالية"
           },
           {
             "id": 4,
             "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+            "text_ar": " وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -1536,7 +1536,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Mecklenburg-Vorpommern?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية مكلنبرغ فوربومرن؟",
         "options": [
           {
             "id": 1,
@@ -1566,7 +1566,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Mecklenburg-Vorpommern?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة مكلنبرغ فوربومرن؟",
         "options": [
           {
             "id": 1,
@@ -1596,7 +1596,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Mecklenburg-Vorpommern gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية مكلنبرغ فوربومرن؟",
         "options": [
           {
             "id": 1,
@@ -1626,7 +1626,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Mecklenburg-Vorpommern bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في الانتخابات البلدية في ولاية مكلنبرغ فوربومرن؟",
         "options": [
           {
             "id": 1,
@@ -1656,27 +1656,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Mecklenburg-Vorpommern?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية مكلنبرغ فوربومرن؟",
         "options": [
           {
             "id": 1,
             "text": "schwarz-rot-gold",
-            "text_ar": ""
+            "text_ar": "أسود-أحمر-ذهبي"
           },
           {
             "id": 2,
             "text": "blau-weiß-gelb-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أصفر-أحمر"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           },
           {
             "id": 4,
             "text": "schwarz-gelb",
-            "text_ar": ""
+            "text_ar": "أسود-أصفر"
           }
         ],
         "answer": 2,
@@ -1686,27 +1686,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Mecklenburg-Vorpommern über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم في ولاية مكلنبرغ فوربومرن الحصول على معلومات حول المواضيع السياسية؟",
         "options": [
           {
             "id": 1,
             "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+            "text_ar": "لدى مركز ولاية مكلنبرغ فوربومرن للتعليم السياسي"
           },
           {
             "id": 2,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 3,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 4,
             "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+            "text_ar": "لدى مركز الاستهلاك"
           }
         ],
         "answer": 1,
@@ -1716,7 +1716,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Mecklenburg-Vorpommern heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية مكلنبرغ فوربومرن هي ...",
         "options": [
           {
             "id": 1,
@@ -1746,7 +1746,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Mecklenburg-Vorpommern?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي مكلنبرغ فوربومرن؟",
         "options": [
           {
             "id": 1,
@@ -1774,27 +1774,29 @@
         "type": ""
       },
       {
-        "id": "Wie nennt man den Regierungschef / die Regierungschefin in Mecklenburg - Vorpommern ?",
+        "id": 9,
+        "text": "Wie nennt man den Regierungschef / die Regierungschefin in Mecklenburg - Vorpommern ?",
+        "text_ar": "ماذا يسمى رئيس الحكومة / رئيسة الحكومة في مكلنبرغ فوربومرن؟",
         "options": [
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
             "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
             "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -1804,27 +1806,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Mecklenburg-Vorpommern nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة ماكلنبورغ؟",
         "options": [
           {
             "id": 1,
             "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
             "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
             "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -1840,7 +1842,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Hessen?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية هيسن؟",
         "options": [
           {
             "id": 1,
@@ -1870,7 +1872,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Hessen?",
-        "text_ar": "",
+        "text_ar": " أي من الأسماء التالية تقع في مقاطعة هيسن؟",
         "options": [
           {
             "id": 1,
@@ -1900,7 +1902,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Hessen gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية هيسن؟",
         "options": [
           {
             "id": 1,
@@ -1930,7 +1932,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Hessen bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الأدنى للتصويت في الانتخابات البلدية في ولاية هيسن؟",
         "options": [
           {
             "id": 1,
@@ -1960,27 +1962,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Hessen?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية هيسن؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "rot-weiß",
-            "text_ar": ""
+            "text_ar": "أحمر-أبيض"
           },
           {
             "id": 3,
             "text": "schwarz-gold",
-            "text_ar": ""
+            "text_ar": "أسود-ذهبي"
           },
           {
             "id": 4,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           }
         ],
         "answer": 2,
@@ -1990,27 +1992,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Hessen über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في ولاية هيسن؟",
         "options": [
           {
             "id": 1,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           },
           {
             "id": 2,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 3,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 4,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           }
         ],
         "answer": 1,
@@ -2020,7 +2022,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Hessen heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية هيسن هي ...",
         "options": [
           {
             "id": 1,
@@ -2050,7 +2052,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Hessen?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية هيسن؟",
         "options": [
           {
             "id": 1,
@@ -2085,22 +2087,22 @@
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
-            "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+             "text": "Bürgermeister / Bürgermeisterin",
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -2110,27 +2112,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Hessen nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة هيسن؟",
         "options": [
           {
             "id": 1,
-            "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+             "text": "Justizminister / Justizministerin",
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
-            "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+           "text": "Außenminister / Außenministerin",
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
-            "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+           "text": "Innenminister / Innenministerin",
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -2146,7 +2148,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Sachsen-Anhalt?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية ساكسن أنهالت؟",
         "options": [
           {
             "id": 1,
@@ -2176,7 +2178,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Sachsen-Anhalt?",
-        "text_ar": "",
+        "text_ar": " أي من الأسماء التالية تقع في مقاطعة ساكسن أنهالت؟",
         "options": [
           {
             "id": 1,
@@ -2206,7 +2208,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Sachsen-Anhalt gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية ساكسن أنهالت؟",
         "options": [
           {
             "id": 1,
@@ -2236,7 +2238,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Sachsen-Anhalt bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في الانتخابات البلدية في ولاية ساكسن أنهالت؟",
         "options": [
           {
             "id": 1,
@@ -2266,27 +2268,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Sachsen-Anhalt?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية ساكسن أنهالت؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "gelb-schwarz",
-            "text_ar": ""
+            "text_ar": "أصفر-أسود"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           },
           {
             "id": 4,
             "text": "weiß-rot",
-            "text_ar": ""
+            "text_ar": "أبيض-أحمر"
           }
         ],
         "answer": 2,
@@ -2296,27 +2298,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Sachsen-Anhalt über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في ولاية ساكسن أنهالت؟",
         "options": [
           {
             "id": 1,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 2,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           },
           {
             "id": 3,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 4,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           }
         ],
         "answer": 2,
@@ -2326,7 +2328,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Sachsen-Anhalt heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية ساكسن أنهالت هي ...",
         "options": [
           {
             "id": 1,
@@ -2356,7 +2358,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Sachsen-Anhalt?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية ساكسن أنهالت؟",
         "options": [
           {
             "id": 1,
@@ -2391,22 +2393,22 @@
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
-            "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+             "text": "Bürgermeister / Bürgermeisterin",
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -2416,27 +2418,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Sachsen-Anhalt nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة ساكسن أنهالت؟",
         "options": [
           {
             "id": 1,
-            "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+             "text": "Justizminister / Justizministerin",
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
-            "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+           "text": "Außenminister / Außenministerin",
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
-            "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+           "text": "Innenminister / Innenministerin",
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -2452,7 +2454,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Rheinland-Pfalz?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية راينلاند بالاتينات؟",
         "options": [
           {
             "id": 1,
@@ -2482,7 +2484,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Rheinland-Pfalz?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة راينلاند بالاتينات؟",
         "options": [
           {
             "id": 1,
@@ -2512,7 +2514,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Rheinland-Pfalz gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية راينلاند بالاتينات؟",
         "options": [
           {
             "id": 1,
@@ -2542,7 +2544,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Rheinland-Pfalz bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في الانتخابات البلدية في ولاية راينلاند بالاتينات؟",
         "options": [
           {
             "id": 1,
@@ -2572,27 +2574,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Rheinland-Pfalz?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية راينلاند بالاتينات؟",
         "options": [
           {
             "id": 1,
             "text": "weiß-rot",
-            "text_ar": ""
+            "text_ar": "أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "schwarz-rot-gold",
-            "text_ar": ""
+            "text_ar": "أسود-أحمر-ذهبي"
           },
           {
             "id": 3,
             "text": "schwarz-gelb",
-            "text_ar": ""
+            "text_ar": "أسود-أصفر"
           },
           {
             "id": 4,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           }
         ],
         "answer": 2,
@@ -2602,27 +2604,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Rheinland-Pfalz über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في ولاية راينلاند بالاتينات؟",
         "options": [
           {
             "id": 1,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 2,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 3,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 4,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           }
         ],
         "answer": 4,
@@ -2632,7 +2634,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Rheinland-Pfalz heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية راينلاند بالاتينات هي ...",
         "options": [
           {
             "id": 1,
@@ -2662,7 +2664,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Rheinland-Pfalz?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية راينلاند بالاتينات؟",
         "options": [
           {
             "id": 1,
@@ -2697,22 +2699,22 @@
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
-            "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+             "text": "Bürgermeister / Bürgermeisterin",
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -2722,27 +2724,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Rheinland-Pfalz nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة راينلاند بالاتينات؟",
         "options": [
           {
             "id": 1,
-            "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+             "text": "Justizminister / Justizministerin",
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
-            "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+           "text": "Außenminister / Außenministerin",
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
-            "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+           "text": "Innenminister / Innenministerin",
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -2758,7 +2760,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Freistaat Sachsen?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية زاكسن؟ ",
         "options": [
           {
             "id": 1,
@@ -2788,7 +2790,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Sachsen?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة زاكسن؟",
         "options": [
           {
             "id": 1,
@@ -2818,7 +2820,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Sachsen gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية زاكسن؟",
         "options": [
           {
             "id": 1,
@@ -2848,7 +2850,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Sachsen bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في الانتخابات البلدية في ولاية زاكسن؟",
         "options": [
           {
             "id": 1,
@@ -2878,22 +2880,22 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Sachsen?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية زاكسن؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "weiß-grün",
-            "text_ar": ""
+            "text_ar": "أبيض-أخضر"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           },
           {
             "id": 4,
@@ -2908,27 +2910,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Sachsen über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في ولاية زاكسن؟",
         "options": [
           {
             "id": 1,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           },
           {
             "id": 2,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 3,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 4,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           }
         ],
         "answer": 1,
@@ -2938,7 +2940,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Sachsen heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية زاكسن هي ...",
         "options": [
           {
             "id": 1,
@@ -2968,7 +2970,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Sachsen?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية زاكسن؟",
         "options": [
           {
             "id": 1,
@@ -3003,22 +3005,22 @@
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
-            "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+             "text": "Bürgermeister / Bürgermeisterin",
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -3028,27 +3030,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Sachsen nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة زاكسن؟",
         "options": [
           {
             "id": 1,
-            "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+             "text": "Justizminister / Justizministerin",
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
-            "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+           "text": "Außenminister / Außenministerin",
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
-            "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+           "text": "Innenminister / Innenministerin",
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -3064,7 +3066,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Freistaat Thüringen?",
-        "text_ar": "",
+        "text_ar": " أي من الشعارات التالية هو شعار ولاية ثورينغين؟",
         "options": [
           {
             "id": 1,
@@ -3094,7 +3096,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Thüringen?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة ثورينغين؟",
         "options": [
           {
             "id": 1,
@@ -3124,7 +3126,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Thüringen gewählt?",
-        "text_ar": "",
+        "text_ar": " لمدة كم سنة يتم انتخاب البرلمان في ولاية ثورينغين؟",
         "options": [
           {
             "id": 1,
@@ -3154,7 +3156,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Thüringen bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في الانتخابات البلدية في ولاية ثورينغين؟",
         "options": [
           {
             "id": 1,
@@ -3184,27 +3186,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Thüringen?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية ثورينغين؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "weiß-rot",
-            "text_ar": ""
+            "text_ar": "أبيض-أحمر"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           },
           {
             "id": 4,
             "text": "schwarz-gold",
-            "text_ar": ""
+            "text_ar": "أسود-ذهبي"
           }
         ],
         "answer": 2,
@@ -3214,27 +3216,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Thüringen über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في  ولاية ثورينغين؟",
         "options": [
           {
             "id": 1,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 2,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 3,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           },
           {
             "id": 4,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           }
         ],
         "answer": 3,
@@ -3244,7 +3246,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Thüringen heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية ثورينغين هي ...",
         "options": [
           {
             "id": 1,
@@ -3274,7 +3276,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Thüringen?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية ثورينغين؟",
         "options": [
           {
             "id": 1,
@@ -3309,22 +3311,22 @@
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
-            "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+             "text": "Bürgermeister / Bürgermeisterin",
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -3334,27 +3336,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Thüringen nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة ثورينغين؟",
         "options": [
           {
             "id": 1,
-            "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+             "text": "Justizminister / Justizministerin",
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
-            "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+           "text": "Außenminister / Außenministerin",
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
-            "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+           "text": "Innenminister / Innenministerin",
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -3370,7 +3372,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Schleswig-Holstein?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية شلسيفغ-هولشتاين؟",
         "options": [
           {
             "id": 1,
@@ -3400,7 +3402,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis in Schleswig-Holstein?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة شلسيفغ-هولشتاين؟",
         "options": [
           {
             "id": 1,
@@ -3430,7 +3432,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag in Schleswig-Holstein gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية شلسيفغ-هولشتاين؟",
         "options": [
           {
             "id": 1,
@@ -3460,7 +3462,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Schleswig-Holstein bei Kommunalwahlen wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الأدنى للتصويت في الانتخابات البلدية في ولاية شلسيفغ-هولشتاين؟",
         "options": [
           {
             "id": 1,
@@ -3490,27 +3492,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Schleswig-Holstein?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية شلسيفغ-هولشتاين؟",
         "options": [
           {
             "id": 1,
             "text": "weiß-blau",
-            "text_ar": ""
+            "text_ar": "أبيض-أزرق"
           },
           {
             "id": 2,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 3,
             "text": "weiß-rot",
-            "text_ar": ""
+            "text_ar": "أبيض-أحمر"
           },
           {
             "id": 4,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           }
         ],
         "answer": 2,
@@ -3520,17 +3522,17 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Schleswig-Holstein über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في ولاية شلسيفغ-هولشتاين؟",
         "options": [
           {
             "id": 1,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 2,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 3,
@@ -3540,7 +3542,7 @@
           {
             "id": 4,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           }
         ],
         "answer": 3,
@@ -3550,7 +3552,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt von Schleswig-Holstein heißt ...",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية شلسيفغ-هولشتاين هي ...",
         "options": [
           {
             "id": 1,
@@ -3580,7 +3582,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Schleswig-Holstein?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية شلسيفغ-هولشتاين؟",
         "options": [
           {
             "id": 1,
@@ -3615,22 +3617,22 @@
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
-            "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+             "text": "Bürgermeister / Bürgermeisterin",
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -3640,27 +3642,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat Schleswig-Holstein nicht?",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة شلسيفغ-هولشتاين؟",
         "options": [
           {
             "id": 1,
-            "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+             "text": "Justizminister / Justizministerin",
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
-            "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+           "text": "Außenminister / Außenministerin",
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
-            "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+           "text": "Innenminister / Innenministerin",
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -3676,7 +3678,7 @@
       {
         "id": 1,
         "text": " Welches Wappen gehört zum Bundesland Saarland? ",
-        "text_ar": "",
+        "text_ar": " أي من الشعارات التالية هو شعار ولاية سارلاند؟",
         "options": [
           {
             "id": 1,
@@ -3706,7 +3708,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Landkreis im Saarland? ",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة سارلاند؟",
         "options": [
           {
             "id": 1,
@@ -3736,7 +3738,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird der Landtag des Saarlandes gewählt? ",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية سارلاند؟",
         "options": [
           {
             "id": 1,
@@ -3766,7 +3768,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man im Saarland bei Kommunalwahlen wählen? ",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في الانتخابات البلدية في ولاية سارلاند؟",
         "options": [
           {
             "id": 1,
@@ -3796,27 +3798,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge des Saarlandes? ",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية سارلاند؟",
         "options": [
           {
             "id": 1,
             "text": "weiß-blau",
-            "text_ar": ""
+            "text_ar": "أبيض-أزرق"
           },
           {
             "id": 2,
             "text": "schwarz-rot-gold ",
-            "text_ar": ""
+            "text_ar": "أسود-أحمر-ذهبي"
           },
           {
             "id": 3,
             "text": "schwarz-gelb",
-            "text_ar": ""
+            "text_ar": "أسود-أصفر"
           },
           {
             "id": 4,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           }
         ],
         "answer": 2,
@@ -3826,27 +3828,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich im Saarland über politische Themen informieren? ",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في ولاية سارلاند؟",
         "options": [
           {
             "id": 1,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 2,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           },
           {
             "id": 3,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 4,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           }
         ],
         "answer": 2,
@@ -3856,7 +3858,7 @@
       {
         "id": 7,
         "text": "Die Landeshauptstadt des Saarlandes heißt ... ",
-        "text_ar": "",
+        "text_ar": "عاصمة ولاية سارلاند هي ...",
         "options": [
           {
             "id": 1,
@@ -3886,7 +3888,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist das Saarland? ",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية سارلاند؟",
         "options": [
           {
             "id": 1,
@@ -3921,22 +3923,22 @@
           {
             "id": 1,
             "text": "Erster Minister / Erste Ministerin",
-            "text_ar": ""
+            "text_ar":  "وزير / وزيرة الدولة الأولى"
           },
           {
             "id": 2,
             "text": "Premierminister / Premierministerin",
-            "text_ar": ""
+            "text_ar": "رئيس / رئيسة الوزراء"
           },
           {
             "id": 3,
-            "text": "Bürgermeister / Bürgermeisterin",
-            "text_ar": ""
+             "text": "Bürgermeister / Bürgermeisterin",
+            "text_ar": "رئيس / رئيسة البلدية"
           },
           {
             "id": 4,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           }
         ],
         "answer": 4,
@@ -3946,27 +3948,27 @@
       {
         "id": 10,
         "text": "Welchen Minister / welche Ministerin hat das Saarland nicht? ",
-        "text_ar": "",
+        "text_ar": "أي من المناصب الوزارية لاتوجد لدى مقاطعة سارلاند؟",
         "options": [
           {
             "id": 1,
-            "text": "Justizminister / Justizministerin",
-            "text_ar": ""
+             "text": "Justizminister / Justizministerin",
+            "text_ar": "وزير / وزيرة العدل"
           },
           {
             "id": 2,
-            "text": "Außenminister / Außenministerin",
-            "text_ar": ""
+           "text": "Außenminister / Außenministerin",
+            "text_ar": "وزير / وزيرة الخارجية"
           },
           {
             "id": 3,
             "text": "Finanzminister / Finanzministerin",
-            "text_ar": ""
+            "text_ar": "وزير / وزيرة المالية"
           },
           {
             "id": 4,
-            "text": "Innenminister / Innenministerin",
-            "text_ar": ""
+           "text": "Innenminister / Innenministerin",
+            "text_ar": "وزير / وزيرة الداخلية"
           }
         ],
         "answer": 2,
@@ -3982,7 +3984,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zum Bundesland Berlin?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية برلين؟",
         "options": [
           {
             "id": 1,
@@ -4012,7 +4014,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Bezirk von Berlin?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة برلين؟",
         "options": [
           {
             "id": 1,
@@ -4042,7 +4044,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird das Landesparlament in Berlin gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية برلين؟",
         "options": [
           {
             "id": 1,
@@ -4072,7 +4074,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Berlin bei Kommunalwahlen (Wahl der Bezirksverordnetenversammlung) wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في انتخابات برلين؟",
         "options": [
           {
             "id": 1,
@@ -4102,27 +4104,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Berlin?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية برلين؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "weiß-rot",
-            "text_ar": ""
+            "text_ar": "أبيض-أحمر"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           },
           {
             "id": 4,
             "text": "schwarz-gold",
-            "text_ar": ""
+            "text_ar": "أسود-ذهبي"
           }
         ],
         "answer": 2,
@@ -4132,27 +4134,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Berlin über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في برلين؟",
         "options": [
           {
             "id": 1,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 2,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 3,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 4,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           }
         ],
         "answer": 4,
@@ -4162,7 +4164,7 @@
       {
         "id": 7,
         "text": "Welches Bundesland ist ein Stadtstaat?",
-        "text_ar": "",
+        "text_ar": "ما هو الولاية الاتحادية التي هي مدينة؟",
         "options": [
           {
             "id": 1,
@@ -4192,7 +4194,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Berlin?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي برلين؟",
         "options": [
           {
             "id": 1,
@@ -4226,8 +4228,8 @@
         "options": [
           {
             "id": 1,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           },
           {
             "id": 2,
@@ -4252,27 +4254,27 @@
       {
         "id": 10,
         "text": "Welchen Senator / welche Senatorin hat Berlin nicht?",
-        "text_ar": "",
+        "text_ar": "ما هو السناتور / السناتورة الذي ليس لدى برلين؟",
         "options": [
           {
             "id": 1,
             "text": "Finanzsenator / Finanzsenatorin",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة المالية"
           },
           {
             "id": 2,
             "text": "Innensenator / Innensenatorin",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة الداخلية"
           },
           {
             "id": 3,
             "text": "Senator / Senatorin für Außenbeziehungen",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة للعلاقات الخارجية"
           },
           {
             "id": 4,
             "text": "Justizsenator / Justizsenatorin",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة العدالة"
           }
         ],
         "answer": 3,
@@ -4288,7 +4290,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zur Freien und Hansestadt Hamburg?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية هامبورغ؟",
         "options": [
           {
             "id": 1,
@@ -4318,7 +4320,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Bezirk von Hamburg?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة هامبورغ؟",
         "options": [
           {
             "id": 1,
@@ -4348,7 +4350,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird das Landesparlament in Hamburg gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية هامبورغ؟",
         "options": [
           {
             "id": 1,
@@ -4378,7 +4380,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Hamburg bei Kommunalwahlen (Wahl der Bezirksversammlungen) wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في ولاية هامبورغ؟",
         "options": [
           {
             "id": 1,
@@ -4408,27 +4410,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Hamburg?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية هامبورغ؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "weiß-rot",
-            "text_ar": ""
+            "text_ar": "أبيض-أحمر"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           },
           {
             "id": 4,
             "text": "schwarz-gelb",
-            "text_ar": ""
+            "text_ar": "أسود-أصفر"
           }
         ],
         "answer": 2,
@@ -4438,27 +4440,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Hamburg über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في هامبورغ؟",
         "options": [
           {
             "id": 1,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 2,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           },
           {
             "id": 3,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 4,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           }
         ],
         "answer": 4,
@@ -4468,7 +4470,7 @@
       {
         "id": 7,
         "text": "Welches Bundesland ist ein Stadtstaat?",
-        "text_ar": "",
+        "text_ar": "ما هو الولاية الاتحادية التي هي مدينة؟",
         "options": [
           {
             "id": 1,
@@ -4498,7 +4500,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Hamburg?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي هامبورغ؟",
         "options": [
           {
             "id": 1,
@@ -4532,8 +4534,8 @@
         "options": [
           {
             "id": 1,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+               "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           },
           {
             "id": 2,
@@ -4558,17 +4560,17 @@
       {
         "id": 10,
         "text": "Welchen Senator / welche Senatorin hat Hamburg nicht?",
-        "text_ar": "",
+        "text_ar": "ما هو السناتور / السناتورة الذي ليس لدى هامبورغ؟",
         "options": [
           {
             "id": 1,
             "text": "Justizsenator / Justizsenatorin",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة العدالة"
           },
           {
             "id": 2,
             "text": "Senator / Senatorin für Außenbeziehungen",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة للعلاقات الخارجية"
           },
           {
             "id": 3,
@@ -4578,7 +4580,7 @@
           {
             "id": 4,
             "text": "Innensenator / Innensenatorin",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة الداخلية"
           }
         ],
         "answer": 2,
@@ -4594,7 +4596,7 @@
       {
         "id": 1,
         "text": "Welches Wappen gehört zur Freien Hansestadt Bremen?",
-        "text_ar": "",
+        "text_ar": "أي من الشعارات التالية هو شعار ولاية بريمن؟",
         "options": [
           {
             "id": 1,
@@ -4624,7 +4626,7 @@
       {
         "id": 2,
         "text": "Welches ist ein Stadtteil von Bremen?",
-        "text_ar": "",
+        "text_ar": "أي من الأسماء التالية تقع في مقاطعة بريمن؟",
         "options": [
           {
             "id": 1,
@@ -4654,7 +4656,7 @@
       {
         "id": 3,
         "text": "Für wie viele Jahre wird das Landesparlament in Bremen gewählt?",
-        "text_ar": "",
+        "text_ar": "لمدة كم سنة يتم انتخاب البرلمان في ولاية بريمن؟",
         "options": [
           {
             "id": 1,
@@ -4684,7 +4686,7 @@
       {
         "id": 4,
         "text": "Ab welchem Alter darf man in Bremen bei den Wahlen zur Bürgerschaft (Landtag) wählen?",
-        "text_ar": "",
+        "text_ar": "ما هو العمر الذي يمكن فيه الاقتراع في ولاية بريمن؟",
         "options": [
           {
             "id": 1,
@@ -4714,27 +4716,27 @@
       {
         "id": 5,
         "text": "Welche Farben hat die Landesflagge von Bremen?",
-        "text_ar": "",
+        "text_ar": "ما هي ألوان علم ولاية بريمن؟",
         "options": [
           {
             "id": 1,
             "text": "blau-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أزرق-أبيض-أحمر"
           },
           {
             "id": 2,
             "text": "rot-weiß",
-            "text_ar": ""
+            "text_ar": "أحمر-أبيض"
           },
           {
             "id": 3,
             "text": "grün-weiß-rot",
-            "text_ar": ""
+            "text_ar": "أخضر-أبيض-أحمر"
           },
           {
             "id": 4,
             "text": "schwarz-gold",
-            "text_ar": ""
+            "text_ar": "أسود-ذهبي"
           }
         ],
         "answer": 2,
@@ -4744,27 +4746,27 @@
       {
         "id": 6,
         "text": "Wo können Sie sich in Bremen über politische Themen informieren?",
-        "text_ar": "",
+        "text_ar": "أين يمكنكم الحصول على معلومات حول المواضيع السياسية في ولاية بريمن؟",
         "options": [
           {
             "id": 1,
             "text": "beim Ordnungsamt der Gemeinde",
-            "text_ar": ""
+            "text_ar": "لدى مكتب النظام في البلدة"
           },
           {
             "id": 2,
-            "text": "bei der Landeszentrale für politische Bildung",
-            "text_ar": ""
+           "text": "bei der Landeszentrale für politische Bildung",
+            "text_ar": "لدى مركز البافاري للتعليم السياسي"
           },
           {
             "id": 3,
             "text": "bei den Kirchen",
-            "text_ar": ""
+            "text_ar": "لدى الكنائس"
           },
           {
             "id": 4,
-            "text": "bei der Verbraucherzentrale",
-            "text_ar": ""
+             "text": "bei der Verbraucherzentrale",
+            "text_ar": "لدى مركز المستهلك"
           }
         ],
         "answer": 2,
@@ -4774,7 +4776,7 @@
       {
         "id": 7,
         "text": "Was ist ein deutscher Stadtstaat?",
-        "text_ar": "",
+        "text_ar": "ما هو الولاية الاتحادية التي هي مدينة؟",
         "options": [
           {
             "id": 1,
@@ -4804,7 +4806,7 @@
       {
         "id": 8,
         "text": "Welches Bundesland ist Bremen?",
-        "text_ar": "",
+        "text_ar": "أي ولاية من الولايات التالية هي ولاية بريمن؟",
         "options": [
           {
             "id": 1,
@@ -4838,8 +4840,8 @@
         "options": [
           {
             "id": 1,
-            "text": "Ministerpräsident / Ministerpräsidentin",
-            "text_ar": ""
+           "text": "Ministerpräsident / Ministerpräsidentin",
+            "text_ar": "رئيس / رئيسة الحكومة"
           },
           {
             "id": 2,
@@ -4864,27 +4866,27 @@
       {
         "id": 10,
         "text": "Welchen Senator / welche Senatorin hat Bremen nicht?",
-        "text_ar": "",
+        "text_ar": "ما هو السناتور / السناتورة الذي ليس لدى ولاية بريمن؟",
         "options": [
           {
             "id": 1,
             "text": "Senator / Senatorin für Außenbeziehungen",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة للعلاقات الخارجية"
           },
           {
             "id": 2,
             "text": "Finanzsenator / Finanzsenatorin",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة المالية"
           },
           {
             "id": 3,
             "text": "Justizsenator / Justizsenatorin",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة العدالة"
           },
           {
             "id": 4,
             "text": "Innensenator / Innensenatorin",
-            "text_ar": ""
+            "text_ar": "سيناتور / سيناتورة الداخلية"
           }
         ],
         "answer": 1,
